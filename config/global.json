@@ -1,11 +1,11 @@
 {
     "applications": {
-        "<your app name>": {
-            "applicationId": "<your app id>",
-            "masterKey": "<your master key>"
+        "IPAuction": {
+            "applicationId": "jbOlGGeo4hUxcpu8jx6U89MKhGLp8XEulG8Tis6X",
+            "masterKey": "xAauOLjBx8HDbFTfNZ7L23uzA8BNyJqIhIJjDHz6"
         }, 
         "_default": {
-            "link": "<your app name>"
+            "link": "IPAuction"
         }
     }, 
     "global": {
